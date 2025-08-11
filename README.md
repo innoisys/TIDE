@@ -1,6 +1,7 @@
 # This Intestine Does Not Exist: Multiscale Residual Variational Autoencoder for Realistic Wireless Capsule Endoscopy Image Generation 
 
 [![GitHub stars](https://img.shields.io/github/stars/innoisys/TIDE.svg?style=flat&label=Star)](https://github.com/innoisys/TIDE/)
+![GitHub Watchers](https://img.shields.io/github/watchers/innoisys/TIDE?style=flat&label=Watchers)
 [![Readme](https://img.shields.io/badge/README-green.svg)](README.md)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
