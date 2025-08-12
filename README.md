@@ -25,4 +25,16 @@ https://github.com/innoisys/TIDE/blob/main/sampled-kvasir-capsule-filenames.txt
 
 ### Citation: 
 Diamantis, D. E., Gatoula, P., Koulaouzidis, A., & Iakovidis, D. K. (2024). This intestine does not exist: Multiscale residual variational autoencoder for realistic wireless capsule endoscopy image generation. IEEE Access, 12, 25668-25683.
-
+#### BibTeX
+```
+@ARTICLE{10438422,
+  author={Diamantis, Dimitrios E. and Gatoula, Panagiota and Koulaouzidis, Anastasios and Iakovidis, Dimitris K.},
+  journal={IEEE Access}, 
+  title={This Intestine Does Not Exist: Multiscale Residual Variational Autoencoder for Realistic Wireless Capsule Endoscopy Image Generation}, 
+  year={2024},
+  volume={12},
+  number={},
+  pages={25668-25683},
+  keywords={Image synthesis;Training;Endoscopes;Lesions;Magnetic resonance imaging;Generative adversarial networks;Decision support systems;Clinical diagnosis;Gastroenterology;Gastrointestinal tract;Encoding;Biomedical monitoring;Clinical decision support systems;endoscopy;gastrointestinal tract;image synthesis;variational autoencoders},
+  doi={10.1109/ACCESS.2024.3366801}}
+```
